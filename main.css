@@ -103,7 +103,7 @@
 
 .rect-button {
   position: absolute;
-  bottom: 10px;           /* distance from bottom */
+  bottom: 9px;           /* distance from bottom */
   left: 50%;               /* center horizontally */
   transform: translateX(-50%);
   
